@@ -1,5 +1,5 @@
 # 🏥 A Medical Document Conversational Framework Using MedGemma  
-### Reliable Cancer Screening Assistance using RAG + GenAI
+### Reliable Cancer Screening Assistance using MEDGemma + GenAI
 
 A GenAI-powered medical document chatbot that helps users understand cancer screening related medical reports using **MedGemma (Google’s medical LLM)** and **Retrieval-Augmented Generation (RAG)**.
 
