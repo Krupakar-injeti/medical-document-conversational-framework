@@ -47,21 +47,22 @@ User → Query Understanding → Document Retrieval → RAG Integration (MedGemm
 
 ---
 
-## 4️⃣ Project Structure  
+## 📂 Project Structure
 
-├── medgemma.py # Loads MedGemma model
-├── file_loader.py # File loaders (PDF, DOCX, Images)
-├── ocr.py # OCR utilities (PyTesseract)
-├── embeddings.py # Embedding model loader
-├── retriever.py # Text chunking logic
-├── vectorstore.py # FAISS vector store
-├── store.py # LangChain FAISS store
-├── app.py # Main application (CLI / Streamlit-ready)
+```text
+medical-document-conversational-framework/
+├── medgemma.py        # Loads MedGemma model
+├── file_loader.py    # File loaders (PDF, DOCX, Images)
+├── ocr.py            # OCR utilities (PyTesseract)
+├── embeddings.py     # Embedding model loader
+├── retriever.py      # Text chunking logic
+├── vectorstore.py    # FAISS vector store
+├── store.py          # LangChain FAISS store
+├── app.py            # Main application (CLI / Streamlit-ready)
 ├── assets/
-│ └── architecture.jpg
+│   └── architecture.jpg
 ├── README.md
-├── .gitignore
-
+└── .gitignore
 
 ---
 
