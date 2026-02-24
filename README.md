@@ -8,7 +8,6 @@ A GenAI-powered medical document chatbot that helps users understand cancer scre
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)  
 ![GenAI](https://img.shields.io/badge/GenAI-MedGemma-purple)  
 ![RAG](https://img.shields.io/badge/Architecture-RAG-orange)  
-![License](https://img.shields.io/badge/License-Academic--Use-green)
 
 ---
 
