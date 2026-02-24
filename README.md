@@ -44,6 +44,7 @@ User → Query Understanding → Document Retrieval → RAG Integration (MedGemm
 
 ### 🎥 Demo Video  
 ▶️ Project Demo:
+
 <video width="700" controls>
   <source src="demo_video.mp4" type="video/mp4">
 </video>
