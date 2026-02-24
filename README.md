@@ -43,10 +43,9 @@ User → Query Understanding → Document Retrieval → RAG Integration (MedGemm
 ---
 
 ### 🎥 Demo Video  
-## 🎥 Project Demo
 
 <video width="700" controls>
-  <source src="https://raw.githubusercontent.com/your-username/your-repo/main/demo_video.mp4" type="video/mp4">
+  <source src="C:\Users\Krupakar\Downloads\Screen Recording 2026-02-23 145012.mp4"
 </video>
 
 ## 📂 Project Structure
