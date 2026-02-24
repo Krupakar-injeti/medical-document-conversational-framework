@@ -44,11 +44,9 @@ User → Query Understanding → Document Retrieval → RAG Integration (MedGemm
 
 ### 🎥 Demo Video  
 ▶️ Project Demo:
-<p align="center>"
-  <img width ="367" alt="image" src="C:\Users\Krupakar\Videos\Screen Recordings\Screen Recording 2026-02-23 145012.mp4"
-  <\p>
-  <p align="center"
-
+<video width="700" controls>
+  <source src="demo_video.mp4" type="video/mp4">
+</video>
 ---
 
 ## 📂 Project Structure
